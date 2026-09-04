@@ -1,0 +1,37 @@
+# Dependencies
+node_modules/
+
+# Next.js build output
+.next/
+out/
+build/
+dist/
+
+# Local environment files
+.env
+.env.*
+!.env.example
+
+# TypeScript and test output
+*.tsbuildinfo
+coverage/
+
+# Logs and runtime files
+*.log
+.pids/
+*.pid
+*.seed
+
+# Local tooling and deployment folders
+.vercel/
+.turbo/
+
+# macOS / editor files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.idea/
+.vscode/
+*.swp
+*.swo
